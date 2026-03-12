@@ -35,7 +35,32 @@
 | 17 | 计算几何 | 凸包、线段相交检测 | ⬜ | |
 | 18 | NP 完全性 | 归约、NP 完全问题 | ⬜ | |
 
->✅  = 已完成 &emsp; 🔧 = 进行中 &emsp; ⬜ = 未开始
+> ✅ = 已完成 &emsp; 🔧 = 进行中 &emsp; ⬜ = 未开始
+
+### 📝 Assignments 完成情况
+
+| # | Assignment | 状态 | 备注 |
+|:-:|-----------|:----:|------|
+| 1 | Assignment 1 | ⬜ | |
+| 2 | Assignment 2 | ⬜ | |
+| 3 | Assignment 3 | ⬜ | |
+| 4 | Assignment 4 | ⬜ | |
+| 5 | Assignment 5 | ⬜ | |
+| 6 | Assignment 6 | ⬜ | |
+| 7 | Assignment 7 | ⬜ | |
+| 8 | Assignment 8 | ⬜ | |
+| 9 | Assignment 9 | ⬜ | |
+| 10 | Assignment 10 | ⬜ | |
+
+### 📋 Quizzes & Final Exam 完成情况
+
+| # | 测验 | 状态 | 备注 |
+|:-:|------|:----:|------|
+| 1 | Quiz 1 | ⬜ | |
+| 2 | Quiz 2 | ⬜ | |
+| 3 | Final Exam | ⬜ | |
+
+> ✅ = 已完成 &emsp; 🔧 = 进行中 &emsp; ⬜ = 未开始
 
 ---
 
