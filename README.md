@@ -37,12 +37,38 @@
 
 > ✅ = 已完成 &emsp; 🔧 = 进行中 &emsp; ⬜ = 未开始
 
-### 📝 Assignments 完成情况
+### 📝 6.0062020 Assignments 完成情况
 
 | # | Assignment | 状态 | 备注 |
 |:-:|-----------|:----:|------|
-| 1 | Assignment 1 | ⬜ | Problem1 (b)DFS＋递归,(c)DFS+贪心,对于任何节点权重相等的树，存在一个最优的布局，它包含所有的叶子节点,(d)最大独立集问题（Maximum Independent Set，MIS），这是一个 NP-完全 问题。独立集问题是指在一个图中，找出一个最大的顶点集合，使得图中的任意两顶点都不相邻.小规模最优解为穷举 |
+| 1 | Assignment 1 | ⬜ | |
 | 2 | Assignment 2 | ⬜ | |
+| 3 | Assignment 3 | ⬜ | |
+| 4 | Assignment 4 | ⬜ | |
+| 5 | Assignment 5 | ⬜ | |
+| 6 | Assignment 6 | ⬜ | |
+| 7 | Assignment 7 | ⬜ | |
+| 8 | Assignment 8 | ⬜ | |
+
+### 📋 Quizzes & Final Exam 完成情况
+
+| # | 测验 | 状态 | 备注 |
+|:-:|------|:----:|------|
+| 1 | Quiz 1 & Review | ⬜ | |
+| 2 | Quiz 2 & Review | ⬜ | |
+| 3 | Quiz 3 & Review | ⬜ | |
+| 4 | Final Exam | ⬜ | |
+
+> ✅ = 已完成 &emsp; 🔧 = 进行中 &emsp; ⬜ = 未开始
+
+---
+
+### 📝 6.046J2015 Assignments 完成情况
+
+| # | Assignment | 状态 | 备注 |
+|:-:|-----------|:----:|------|
+| 1 | Assignment 1 | ✅ | Problem1 (b)DFS＋递归,(c)DFS+贪心,对于任何节点权重相等的树，存在一个最优的布局，它包含所有的叶子节点,(d)最大独立集问题（Maximum Independent Set，MIS），这是一个 NP-完全 问题。独立集问题是指在一个图中，找出一个最大的顶点集合，使得图中的任意两顶点都不相邻.小规模最优解为穷举;Problem(2)一个典型的分治问题 |
+| 2 | Assignment 2 | 🔧 | Problem1 将字符串的子串匹配问题转化为卷积操作,FFT的核心在于在递归中减小未知数X的规模,从而把复杂度降为O(nlgn) |
 | 3 | Assignment 3 | ⬜ | |
 | 4 | Assignment 4 | ⬜ | |
 | 5 | Assignment 5 | ⬜ | |
